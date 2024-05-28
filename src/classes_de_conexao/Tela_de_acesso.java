@@ -39,6 +39,7 @@ public class Tela_de_acesso extends JFrame {
 
     // Construtor para criar a interface
     public Tela_de_acesso() {
+    	setEnabled(false);
         setTitle("Tela de acesso"); // Define o título da janela
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // Define a operação de fechamento
         setBounds(100, 100, 358, 249); // Define a posição e tamanho da janela
