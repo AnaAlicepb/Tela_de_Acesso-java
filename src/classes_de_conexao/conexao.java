@@ -12,7 +12,7 @@ public class conexao {
             Class.forName("com.mysql.cj.jdbc.Driver");
             
             // Estabelecer a conexão com o banco de dados
-            return DriverManager.getConnection("jdbc:mysql://localhost/db_senhas?useSSL=false&serverTimezone=UTC", "root", "1234");
+            return DriverManager.getConnection("jdbc:mysql://localhost/db_senhas", "root", "1234");
             
         } catch (ClassNotFoundException e) {
             // Exceção para caso o driver JDBC não seja encontrado
