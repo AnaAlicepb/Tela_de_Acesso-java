@@ -11,7 +11,7 @@
 
 <header>
     <h1>Tela de Acesso</h1>
-    <img src="path_to_your_logo_here" alt="Logo do Projeto" width="300">
+    <img src="https://media.licdn.com/dms/image/D4D22AQE8i7fFUju6Pg/feedshare-shrink_2048_1536/0/1716920091482?e=1720051200&v=beta&t=X0X1uXRlcc5DcMUIw1eTqeVT6sFINlBHN5-3ng-J0Ek" alt="Logo do Projeto" width="300">
 </header>
 
 <details>
