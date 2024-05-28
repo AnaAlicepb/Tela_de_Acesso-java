@@ -77,8 +77,7 @@
     <ul>
         <li><a href="https://linktr.ee/anaeanali5" target="_blank"><img src="https://img.shields.io/badge/Ana_Alice_Rodrigues-blue?style=for-the-badge" alt="Perfil de Ana Alice Rodrigues"></a></li>
      
-    </ul>
-    <p>Acesse o projeto na Vercel <a href="https://projeto-na-vercel.com">aqui</a>.</p>
+   
 </section>
 
 </body>
